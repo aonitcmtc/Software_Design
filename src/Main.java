@@ -15,7 +15,7 @@ public class Main {
 		
 		int[] numbers = { 1, 1, 2, 3, 5};
 		int[] even = new int [20];
-		String[] fruits = {"banana" , "apple" , "melon"};
+		String[] fruits = {"banana" , "apple" , "melon" , "orange"};
 		
 
 		for(int j = 0 ; j < fruits.length ; j++)
